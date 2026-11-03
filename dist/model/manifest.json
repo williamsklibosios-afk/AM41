@@ -1,0 +1,39 @@
+{
+ "file": "am41.glb",
+ "bytes": 2413664,
+ "build": "20261103123745",
+ "source": "test_parts.glb",
+ "placeholder": true,
+ "groups": [
+  {
+   "id": "lift",
+   "parts": 10,
+   "tris": 13862
+  },
+  {
+   "id": "pusher",
+   "parts": 2,
+   "tris": 368
+  },
+  {
+   "id": "avionics",
+   "parts": 2,
+   "tris": 24
+  },
+  {
+   "id": "spars",
+   "parts": 1,
+   "tris": 192
+  },
+  {
+   "id": "hatch",
+   "parts": 1,
+   "tris": 13124
+  },
+  {
+   "id": "airframe",
+   "parts": 2,
+   "tris": 52504
+  }
+ ]
+}
